@@ -2,5 +2,5 @@
 Credits Validating System of University of Westminster
 
 Tech - Python
-Program - First year | First semester | Course Work
+Project - First year | First semester | Course Work
 Module - Software Development (Programming)
